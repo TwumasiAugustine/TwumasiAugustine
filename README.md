@@ -156,17 +156,19 @@ const augustine = {
 
 ```yaml
 projects:
-  - Building scalable web applications with modern tech stacks
+  - Building mobile-first applications with React Native
+  - Crafting scalable backends with Node.js & TypeScript
   - Contributing to open-source communities
-  - Exploring microservices architecture patterns
+  - Developing full-stack solutions with modern JavaScript ecosystem
 
 learning:
-  - Advanced Kubernetes orchestration
-  - System design patterns
-  - Cloud-native development
+  - Advanced TypeScript patterns & best practices
+  - React Native performance optimization
+  - Microservices architecture with Node.js
+  - System design & scalability patterns
 
 collaboration:
-  - Open to exciting full-stack projects
+  - Open to exciting React Native & Node.js projects
   - Interested in developer tools & productivity apps
   - Always ready to learn from the community
 ```
@@ -179,15 +181,15 @@ collaboration:
   <a href="https://github.com/TwumasiAugustine" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="mailto:twumasiaugustine007@gmail.com.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <!-- Uncomment and add your profiles:
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://dev.to/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
