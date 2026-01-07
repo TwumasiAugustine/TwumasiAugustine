@@ -111,7 +111,9 @@ const augustine = {
 
 ### 🌐 Connect With Me
 
+<!-- TODO: Replace the placeholder URLs below with your actual social media profiles -->
 <p align="center">
+  <!-- Uncomment and update with your actual profiles:
   <a href="https://twitter.com/YourTwitterHandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
@@ -130,6 +132,10 @@ const augustine = {
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
+  -->
+  <a href="https://github.com/TwumasiAugustine" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -143,6 +149,7 @@ const augustine = {
 
 ### 🎯 Featured Projects
 
+<!-- TODO: Replace with your actual repository names or remove this section
 <p align="center">
   <a href="https://github.com/TwumasiAugustine/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TwumasiAugustine&repo=project1&theme=tokyonight" alt="Project 1" />
@@ -150,6 +157,11 @@ const augustine = {
   <a href="https://github.com/TwumasiAugustine/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TwumasiAugustine&repo=project2&theme=tokyonight" alt="Project 2" />
   </a>
+</p>
+-->
+
+<p align="center">
+  <i>🚀 Featured projects will appear here once you have repositories to showcase!</i>
 </p>
 
 ---
