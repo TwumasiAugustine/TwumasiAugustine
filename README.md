@@ -92,8 +92,14 @@ const augustine = {
 
 ### 📈 Contribution Snake
 
+<!-- The snake animation will appear once the GitHub Action workflow runs for the first time -->
+<!-- You can manually trigger it by going to Actions tab and running the "Generate Snake" workflow -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TwumasiAugustine/TwumasiAugustine/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TwumasiAugustine/TwumasiAugustine/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TwumasiAugustine/TwumasiAugustine/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TwumasiAugustine/TwumasiAugustine/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
